@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vidyastu_Sisyphus</title>
+</head>
+<body>
+    
+</body>
+
+    <div class="top-division">
+        <section class="my-img-section">
+            <img src="https://images.pexels.com/photos/19085706/pexels-photo-19085706/free-photo-of-cold-bird-water-sun.jpeg?auto=compress&cs=tinysrgb&w=600" alt="NATURE">
+        </section>
+    
+        <section>
+            <H1>Prajesh Banerjee</H1>
+            <p>A Future Web Developer</p>
+        <h2>Career Objective</h2>
+            <p>I want to work for a forward-thinking organisation that will enable me to put my knowledge and talents to use and help me grow in them. I am seeking a a job in the IT industry where fresh talents would enhance operations and go above and beyond the requirements of the position I would hold.</p>
+        </section>
+    </div>
+    
+        <div class="mid-division">
+            <div class="mid-left-division">
+                <h2>Contact Information</h2>
+                <p>Phone: 1234567890</p>
+                <p>Email: prajeshbanerjee2@gmail.com</p>
+            <h2>Technical Skills</h2>
+            <ul>
+                <li>HTML</li>
+                <LI>CSS</LI>
+                <LI>JAVASCRIPT</LI>
+                <LI>REACTJS</LI>
+                <LI>NODEJS</LI>
+                </ul>
+            <H2>Personal Skills</H2>
+            <ol>
+                <li>Communication</li>
+                <li>Time Management</li>
+            </ol>
+            <h2>Certification</h2>
+            <ul>
+                <li>Full Stack Web Development from <a href="https://vidyastu.in/" target="_blank"> Vidyastu</a>.
+        
+                </a></li>
+                <li>Certificate in Information Technology and Application from <a href="https://www.wbyouthservices.gov.in/computer_training.html" target="_blank"> Youth Computer Training Centre</a>.</li>
+                <p>Percentage: 69%</p>
+            </ul>
+            <h2>Language Proficiency</h2>
+                <ol>
+                    <li>Bengali</li>
+                    <li>English</li>
+                    <li>Hindi</li>
+                </ol>
+            
+            <h2>Hobbies</h2>
+                <p>Explore New Technology</p>
+                <p>Travelling</p>
+                <p>Watching Movies and Series</p>
+            </div>
+           <div class="mid-right-division">
+            <h2>Education</h2>
+                <p>Asutosh College</p>
+                <p>University: Calcutta</p>
+                <p>B.Sc. Honours in Environmental Science (2018)</p>
+                <p>Chemistry as optional 1</p>
+                <p>Botany as optional 2</p>
+                <p>Percentage: 60%</p>
+            <h2>Kalna Ambika Mahishmardini High School</h2>
+                <p>Higher Secondary with PCM (2014)</p>
+                <p>Board: West Bengal Council of Higher Secondary Education</p>
+                <p>Percentage: 56.40%</p>
+            <h2>Kalna Ambika Mahishmardini High School</h2>
+                <p>Secondary Examination (2012)</p>
+                <p>Board: West Bengal of Secondary Education</p>
+                <p>Percentage: 75.85%</p>
+           </div>
+        </div>
+</div>
+    <footer>
+        <br/>
+         <p>Date: 26-11-2023</p> <br/> Place: Uttarpara
+         <p>Prajesh Banerjee</p>
+    </footer>
+        
+    </div>
+    <p></p>
+    
+        
+    
+</body>
+</html>
